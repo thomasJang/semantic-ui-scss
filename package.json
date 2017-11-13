@@ -1,0 +1,32 @@
+{
+  "name": "semantic-ui-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasJang/semantic-ui-scss.git"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-changed": "*",
+    "gulp-notify": "",
+    "gulp-plumber": "",
+    "gulp-sass": "^2.1.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-util": "*",
+    "node-sass": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasJang/semantic-ui-scss/issues"
+  },
+  "homepage": "https://github.com/thomasJang/semantic-ui-scss#readme"
+}

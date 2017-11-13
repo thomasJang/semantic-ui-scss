@@ -18,6 +18,8 @@
     "bower_components",
     "test",
     "tests",
-    ".gitignore"
+    ".gitignore",
+    "package.json",
+    "package-lock.json"
   ]
 }
